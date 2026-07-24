@@ -1,0 +1,6 @@
+{
+  "name": "Men's Health eBook",
+  "description": "Production-ready digital product sales platform for the Nepali Men's Health eBook on शीघ्र स्खलनबाट मुक्ति with eSewa/Khalti checkout, admin verification, automatic email fulfillment, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
